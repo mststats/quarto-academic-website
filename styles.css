@@ -5,7 +5,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: #ffffff; /* Changes standard body text to white */
+  color: blue; /* Changes standard body text color */
 }
 
 /* 2. Change all heading colors (H1, H2, H3, etc.) */
@@ -13,17 +13,18 @@
 .landing-bg h2, 
 .landing-bg h3, 
 .landing-bg h4 {
-  color: #ffffff; /* Changes headers to white */
+  color: red; 
 }
 
 /* 3. Change link colors so they stay readable */
 .landing-bg a {
-  color: #5dade2; 
+  color: darkblue; 
   text-decoration: bold;
 }
 
 /* 4. Change link colors when hovered */
 .landing-bg a:hover {
-  color: #3498db; 
+  color: purple; 
+  text-decoration: underline;
 }
 

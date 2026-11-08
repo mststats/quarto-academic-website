@@ -12,7 +12,6 @@ website:
  
   navbar:
     background: light  # You can change the background color here
-
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
@@ -26,8 +25,6 @@ website:
             href: pub-listing.qmd
       - text: Projects
         href: projects.qmd
-#          - text: News 
-#            href: posts.qmd#category=paper
       - text: Software
         href: software.qmd
       - text: Teaching 

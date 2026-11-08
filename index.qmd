@@ -9,7 +9,7 @@ page-layout: full
 #title-block-banner: files/images/obrienUCD.jpg
 title-block-banner: true
 title-block-banner-color: black # Optional: ensures text is readable
-body-classes: landing-bg
+#body-classes: landing-bg
 
 about:
   id: hero-heading
