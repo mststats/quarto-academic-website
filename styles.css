@@ -1,0 +1,30 @@
+/* Full-page background styling */
+.landing-bg {
+  background-image: url("files/images/ct.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: blue; /* Changes standard body text color */
+}
+
+/* 2. Change all heading colors (H1, H2, H3, etc.) */
+.landing-bg h1, 
+.landing-bg h2, 
+.landing-bg h3, 
+.landing-bg h4 {
+  color: red; 
+}
+
+/* 3. Change link colors so they stay readable */
+.landing-bg a {
+  color: darkblue; 
+  text-decoration: bold;
+}
+
+/* 4. Change link colors when hovered */
+.landing-bg a:hover {
+  color: purple; 
+  text-decoration: underline;
+}
+
