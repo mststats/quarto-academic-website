@@ -1,100 +1,76 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Michael Salter-Townshend"
+description-meta: "Academic Website MST"
+image: "files/images/mst.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
 page-layout: full
+#title-block-banner: files/images/obrienUCD.jpg
+title-block-banner: true
+title-block-banner-color: black # Optional: ensures text is readable
+body-classes: landing-bg
 
 about:
   id: hero-heading
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
     - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+      text: UCD
+      href: https://people.ucd.ie/michael.salter-townshend
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:michael.salter-townshend@ucd.ie
+      target: _blank
+    - text: "{{< fa brands bluesky >}} bluesky"
+      href: https://bsky.app/profile/mststats.bsky.social
+      target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/michael-salter-townshend-113a4819/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://orcid.org/0000-0001-6232-9109
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.co.uk/citations?user=uuxt2JMAAAAJ
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Michael_Salter-Townshend
+      target: _blank
+    - icon: github
+      text: github
+      href: https://www.github.com/mststats
+      target: _blank
+    - icon: gitlab
+      text: gitlab
+      href: https://csgitlab.ucd.ie/mst
+      target: _blank 
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I am an Assistant Professor of Statistics in [University College Dublin](https://www.ucd.ie) in the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/). 
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+The icons under my photo are links to some online accounts I use. 
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+My research spans statistical genetics, network analysis, palaeoclimate reconstruction, and sentiment analysis. 
+See my publications list for more information or browse by topic by clicking projects in the navigation bar above. 
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
-
-## Education
-
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+*Education*
+  
+  - PhD in Statistics
+    institution: Trinity College Dublin
+    year: 2009
+  - MSc in High Performance Computing
+    institution: Trinity College Dublin
+    year: 2004
+  - BA Mod Computational Physics
+    institution: Trinity College Dublin
+    year: 2003
 
 :::
 
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>

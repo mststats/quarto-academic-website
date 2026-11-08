@@ -1,0 +1,28 @@
+---
+title: "Statistical Genetics"
+description: "Statistical Analysis of genetics data, mostly focussing on Population Genetics."
+categories: ["genetics", "computational"]
+image: "/files/images/statgen.png"
+bibliography: ../publications.bib
+nocite: |
+  @salter2019fine,
+  @salter2019local,
+  @ward2021genome,
+  @cotroneo2021computational,
+  @ward2022genome,
+  @zhao2022polygenic,
+  @zhao2024group,
+  @ward2024genomic,
+  @mchugo2025genome,
+  @mchugo2026integrative,
+  @salter2017supplement,
+  @mahoney2026detecting,
+  @maksimova2024exploring,
+  
+---
+
+## Project Publications
+
+::: {#refs}
+:::
+

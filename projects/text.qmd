@@ -1,0 +1,19 @@
+---
+title: "Text / Topics / Sentiment"
+description: "Analysis of text, modelling both topic and sentiment."
+categories: ["sentiment", "bayesian", "machine-learning", "topics", "text"]
+image: "/files/images/text.png"
+bibliography: ../publications.bib
+nocite: |
+  @salter2012sentiment,
+  @salter2014mixtures,
+  @qin2014exploring,
+  @qin2015influence,
+  @qin2016online,
+  
+---
+
+## Project Publications
+
+::: {#refs}
+:::

@@ -1,0 +1,30 @@
+---
+title: "Miscellaneous Projects"
+description: "Anything that doesn't have another home"
+categories: ["machine-learning", "sentiment", "other"]
+image: "/files/images/other.png"
+bibliography: ../publications.bib
+nocite: |
+  @qin2014exploring,
+  @becker2015making,
+  @beckermaking,
+  @qin2015influence,
+  @qin2016online,
+  @salter2013algorithms,
+  @mcmackin2018regression,
+  @zhao2023simulation,
+  @conteddu2023curbing,
+  @o2023verifying,
+  @wang2023novel,
+  @conteddu2024scoping,
+  @conteddu2024random,
+  @whyte2025discrimination,
+  @whyte2026discrimination,
+  @moss2026prospective,
+---
+
+## Project Publications
+
+::: {#refs}
+:::
+

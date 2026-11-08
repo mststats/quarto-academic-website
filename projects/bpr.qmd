@@ -1,0 +1,24 @@
+---
+title: "Palaeoclimate Reconstruction"
+description: "Inferring past climates based on proxies such as pollen."
+categories: ["palaeo", "bayesian", "computational"]
+image: "/files/images/bpr.png"
+bibliography: ../publications.bib
+nocite: |
+  @salter2009fast, 
+  @parnell2009quantifying,
+  @parnell2012bayesian,
+  @parnellfast,
+  @salter2012fast,
+  @haslett2006modelling,
+  @haslett2006bayesian,
+  @salter2006modelling,
+  @parnellbayesian,
+  @parnell2015bayesian,
+  @sweeney2018statistical,
+---
+
+## Project Publications
+
+::: {#refs}
+:::

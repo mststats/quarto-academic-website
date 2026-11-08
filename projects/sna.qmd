@@ -1,0 +1,32 @@
+---
+title: "Network Analysis"
+description: "Analysis of data comprising links between nodes."
+categories: ["machine-learning", "networks", "bayesian", "computational"]
+image: "/files/images/sna.png"
+bibliography: ../publications.bib
+nocite: |
+  @salter2009variational,
+  @brew2010latent,
+  @salter2012review,
+  @salter2012analysing,
+  @salter2012variational,
+  @salter2012vblpcm,
+  @salter2014mixtures,
+  @salter2015role,
+  @qin2015influence,
+  @salter2015package,
+  @salter2017latent,
+  @saltersupplementary,
+  @hart2022static,
+  @kaur2024anisna,
+  @kaur2025using,
+  @kaur2024protocol,
+  @conteddu2024random,
+  
+---
+
+## Project Publications
+
+::: {#refs}
+:::
+
