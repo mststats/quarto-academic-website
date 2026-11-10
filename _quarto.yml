@@ -15,8 +15,6 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-#      - text: News
-#        href: posts.qmd#category=news
       - text: Publications 
         menu:
           - text: Publications  # Manually curated list of publications
@@ -33,6 +31,8 @@ website:
         href: activities.qmd
       - text: Group   
         href: people.qmd
+      - text: News
+        href: posts.qmd
 
     right: 
       - text: CV

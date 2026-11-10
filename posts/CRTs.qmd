@@ -1,0 +1,13 @@
+---
+title: "Centre for Research Training"
+date: "2019"
+categories: [news]
+---
+
+I am a named supervisor in two new **Centre's for Research Training** funded by **Science Foundation Ireland**: 
+
+- [Foundations in Data Science](http://data-science.ie/)
+- [Genomics Data Science](http://genomicsdatascience.ie/)
+
+These offer the fantastic opportunity to enter a fully funded PhD programme with a large cohort of other PhD candidates. 
+Use the links to apply!

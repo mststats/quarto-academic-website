@@ -1,0 +1,13 @@
+---
+title: "Coin Flipping"
+categories: [news]
+---
+
+**Have you ever wondered how fair the coin toss actually is?
+Research has shown that perception of how fair the outcome is depends entirely on who led the toss.
+For more on this, Seán is joined by Michael Salter-Townshend, Assistant Professor of Statistics at UCD.**
+
+Another light look at statistics on [Newstalk](https://www.newstalk.com), this time on the [Moncrieff Show](https://www.newstalk.com/shows/moncrieff-234861)
+
+
+- **Listen to the [podcast](https://www.newstalk.com/podcasts/highlights-from-moncrieff/how-fair-is-a-coin-toss-actually).**
