@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Research Themes"
 subtitle: "Methodological and collaborative research themes"
 description-meta: "Research projects and themes of Michael Salter-Townshend"
 title-block-banner: false

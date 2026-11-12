@@ -19,7 +19,7 @@ website:
             href: publications.qmd
           - text: All Publications
             href: pub-listing.qmd
-      - text: Projects
+      - text: Research 
         href: projects.qmd
       - text: Software
         href: software.qmd
