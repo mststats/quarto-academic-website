@@ -1,30 +1,27 @@
 ---
-title: "Miscellaneous Projects"
-description: "Anything that doesn't have another home"
-categories: ["machine-learning", "sentiment", "other"]
+title: "Applied & Interdisciplinary Statistics"
+description: "Collaborative statistical modelling in food authenticity, actuarial risk, multivariate time series, and animal behaviour."
+order: 5
+categories: ["machine-learning", "applied-statistics", "time-series"]
 image: "/files/images/other.png"
+toc: false
 bibliography: ../publications.bib
 nocite: |
-  @qin2014exploring,
-  @becker2015making,
-  @beckermaking,
-  @qin2015influence,
-  @qin2016online,
-  @salter2013algorithms,
-  @mcmackin2018regression,
-  @zhao2023simulation,
-  @conteddu2023curbing,
-  @o2023verifying,
-  @wang2023novel,
-  @conteddu2024scoping,
-  @conteddu2024random,
-  @whyte2025discrimination,
   @whyte2026discrimination,
   @moss2026prospective,
+  @whyte2025discrimination,
+  @conteddu2024scoping,
+  @conteddu2024random,
+  @zhao2023simulation,
+  @o2023verifying,
+  @wang2023novel,
+  @mcmackin2018regression,
+  @becker2015making
 ---
+
+Alongside core methodological work, I collaborate across agricultural science, actuarial science, veterinary epidemiology, and financial/econometric time series. Recent projects include multivariate classification of stable isotope and trace-element profiles to verify grass-fed beef and dairy origin claims, quantifying the impact of polygenic risk scores on critical illness insurance, modelling dependent heteroskedastic time series, and prospective behavioural categorisation in animal science.
 
 ## Project Publications
 
 ::: {#refs}
 :::
-

@@ -1,76 +1,68 @@
 ---
 title: "Michael Salter-Townshend"
-description-meta: "Academic Website MST"
+subtitle: "Associate Professor of Statistics · University College Dublin"
+description-meta: "Academic website of Michael Salter-Townshend, Associate Professor of Statistics at University College Dublin"
 image: "files/images/mst.jpg"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
-#title-block-banner: files/images/obrienUCD.jpg
-title-block-banner: true
-title-block-banner-color: black # Optional: ensures text is readable
-#body-classes: landing-bg
 
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 72%
   links:
     - icon: globe
-      text: UCD
+      text: UCD Profile
       href: https://people.ucd.ie/michael.salter-townshend
       target: _blank
     - icon: envelope
       text: E-mail
       href: mailto:michael.salter-townshend@ucd.ie
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.co.uk/citations?user=uuxt2JMAAAAJ
       target: _blank
-    - text: "{{< fa brands bluesky >}} bluesky"
-      href: https://bsky.app/profile/mststats.bsky.social
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-6232-9109
+      target: _blank
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Michael_Salter-Townshend
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/mststats
+      target: _blank
+    - icon: gitlab
+      text: GitLab
+      href: https://csgitlab.ucd.ie/mst
       target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/michael-salter-townshend-113a4819/
       target: _blank
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/0000-0001-6232-9109
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/mststats.bsky.social
       target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.co.uk/citations?user=uuxt2JMAAAAJ
-      target: _blank
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Michael_Salter-Townshend
-      target: _blank
-    - icon: github
-      text: github
-      href: https://www.github.com/mststats
-      target: _blank
-    - icon: gitlab
-      text: gitlab
-      href: https://csgitlab.ucd.ie/mst
-      target: _blank 
-
 ---
 
 :::{#hero-heading}
 
-I am an Assistant Professor of Statistics in [University College Dublin](https://www.ucd.ie) in the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/). 
+I am an Associate Professor of Statistics in the [School of Mathematics and Statistics](https://www.ucd.ie/mathstat/) at [University College Dublin](https://www.ucd.ie/), where I also serve as Head of Graduate Teaching and Learning and Director of [Online Programmes in Data Analytics](https://www.ucd.ie/online/dataanalytics). Before joining UCD as faculty, I was a Postdoctoral Researcher in Simon Myers' group in the Department of Statistics and a Junior Research Fellow at Mansfield College, University of Oxford.
 
-The icons under my photo are links to some online accounts I use. 
+My research develops statistical and computational methods—including Bayesian inference, latent variable and network models, Hidden Markov Models, and statistical machine learning—motivated by substantive problems in **population and statistical genetics**, **social and ecological network analysis**, **palaeoclimate reconstruction**, and **text and sentiment modelling**. Explore my [selected publications](publications.qmd), [open-source software](software.qmd), or [research projects by topic](projects.qmd).
 
-My research spans statistical genetics, network analysis, palaeoclimate reconstruction, and sentiment analysis. 
-See my publications list for more information or browse by topic by clicking projects in the navigation bar above. 
+## Appointments & Education
 
-*Education*
-  
-  - PhD in Statistics
-    institution: Trinity College Dublin
-    year: 2009
-  - MSc in High Performance Computing
-    institution: Trinity College Dublin
-    year: 2004
-  - BA Mod Computational Physics
-    institution: Trinity College Dublin
-    year: 2003
+- **Associate Professor of Statistics**, University College Dublin (2025–present)
+- **Assistant Professor of Statistics**, University College Dublin (2017–2025)
+- **Postdoctoral Researcher & Junior Research Fellow**, Department of Statistics & Mansfield College, University of Oxford (2013–2016)
+- **Postdoctoral Researcher**, Clique Strategic Research Cluster, University College Dublin (2009–2013)
+- **PhD in Statistics**, Trinity College Dublin (2009)
+- **MSc in High Performance Computing**, Trinity College Dublin (2004)
+- **BA (Mod.) in Computational Physics**, Trinity College Dublin (2003)
 
+:::{.info-panel}
+**Prospective Students & Collaborators:** I supervise PhD and MSc researchers across statistical genetics, network science, and applied statistics (including through the [Rinn AI Centre](https://www.rinn-network.ie/rinn-ai/) and SFI Centres for Research Training). If you are interested in PhD supervision, postdoctoral fellowships, or interdisciplinary collaboration, feel free to get in touch by [e-mail](mailto:michael.salter-townshend@ucd.ie) with your CV and research interests.
 :::
 
+:::

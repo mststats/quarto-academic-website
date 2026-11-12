@@ -1,20 +1,10 @@
 ---
-title: "Computational modelling of Chromosomally Clustering Protein Domains In Bacteria**."
+title: "Computational Modelling of Chromosomally Clustering Protein Domains in Bacteria"
+date: "2021-12-13"
+description: "Statistical identification of protein-domain chromosomal clusters across bacterial genomes, published in BMC Bioinformatics."
 categories: [paper]
 ---
 
+[Chiara Cotroneo](https://www.linkedin.com/in/chiaraec/), [Isobel Claire Gormley](https://sites.google.com/view/clairegormley/), [Denis C. Shields](https://people.ucd.ie/denis.shields), and [Michael Salter-Townshend](../index.qmd) have published an article in *BMC Bioinformatics*:
 
-[Chiara Controneo](http://shieldslab.ucd.ie/people/chiara-cotroneo/), [Denis Shields](http://shieldslab.ucd.ie/), [Claire Gormley](https://sites.google.com/view/clairegormley/), and I have written a paper on
-**Computational modelling of Chromosomally Clustering Protein Domains In Bacteria**.
-
-
-
-
-***Accepted for publication in BMC Bioinformatics 13-December-2021***
-
-<!--
-Click the tweet below to see a brief explainer thread.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New <a href="https://twitter.com/hashtag/preprint?src=hash&amp;ref_src=twsrc%5Etfw">#preprint</a> on finding gene clusters occurring across bacterial strains with <a href="https://twitter.com/selenocysteina?ref_src=twsrc%5Etfw">@selenocysteina</a> <a href="https://twitter.com/denshields?ref_src=twsrc%5Etfw">@denshields</a> and <a href="https://twitter.com/icgormley?ref_src=twsrc%5Etfw">@icgormley</a> <a href="https://t.co/nvfiDNKkFP">https://t.co/nvfiDNKkFP</a></p>&mdash; M. Salter-Townshend (@mststats) <a href="https://twitter.com/mststats/status/1435894587386744833?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
+**[Computational modelling of chromosomally clustering protein domains in bacteria](https://doi.org/10.1186/s12859-021-04512-x)**

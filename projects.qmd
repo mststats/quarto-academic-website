@@ -1,11 +1,15 @@
 ---
 title: "Research Projects"
+subtitle: "Methodological and collaborative research themes"
+description-meta: "Research projects and themes of Michael Salter-Townshend"
+title-block-banner: false
+toc: false
 listing:
-  contents: projects                  # Path to folder or list of files (e.g., "projects/*.qmd")
-  type: grid                          # Renders as a card grid
-  grid-columns: 3                     # Number of grid columns (1 to 6)
-  image-height: "200px"               # Fixes uniform height for images
-  grid-item-border: true              # Adds card borders (optional)
-  fields: [image, title, description] # Elements displayed on each grid card
-  sort: "title asc"                   # Sorting order
+  contents: projects
+  type: grid
+  grid-columns: 3
+  image-height: "200px"
+  grid-item-border: true
+  fields: [image, title, description]
+  sort: "order asc"
 ---

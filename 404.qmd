@@ -1,7 +1,15 @@
 ---
-title: Page Unplugged
+title: "Page Not Found"
+toc: false
+page-navigation: false
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
+Sorry, the page you requested could not be found—it may have moved when this website was updated.
 
-You may want to try searching to find the page's new plug.
+Try using the search bar in the top navigation, or head directly to:
+
+- [Home](index.qmd)
+- [Selected Publications](publications.qmd) & [All Publications](pub-listing.qmd)
+- [Research Projects](projects.qmd)
+- [Software](software.qmd)
+- [News & Updates](posts.qmd)

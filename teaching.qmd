@@ -1,30 +1,38 @@
 ---
+title: "Teaching"
+subtitle: "Undergraduate, graduate, and online modules in Statistics and Data Analytics"
+description-meta: "Courses taught by Michael Salter-Townshend at University College Dublin and University of Oxford"
+title-block-banner: false
 ---
 
-**I am currently lecturing the following courses in UCD:**
+## Current Modules at UCD
 
-- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT30280" target="_blank">STAT30280</a> Inference for Data Analytics
-- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT30010" target="_blank">STAT30010</a> Time Series Analysis
-- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40700" target="_blank">STAT40700</a> Time Series Analysis - Act App
-- <a href="https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40860" target="_blank">STAT40860</a> Time Series (online)
+I am currently lecturing the following undergraduate, graduate, and online modules in the School of Mathematics and Statistics at University College Dublin:
 
-**Courses I previously lectured:**
+- **[STAT30280](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT30280)** — Inference for Data Analytics (2021–present)
+- **[STAT30010](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT30010)** — Time Series Analysis
+- **[STAT40700](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40700)** — Time Series Analysis: Actuarial Applications
+- **[STAT40860](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=STAT40860)** — Time Series Analysis (Online)
 
-- Monte Carlo Inference
-- Monte Carlo (online)
-- Bayesian Analysis (level 2 undergraduate module)
-- Bayesian Analysis (level 4 masters module)
-- Bayesian Analysis (Online)
-- Statistics Using R for Computational Biologists, University College Dublin (2011, 2012, 2013).
-- Case Studies in Simulation Science, University College Dublin (2013).
-- Statistics and Mathematics in Computational Biology, University College Dublin (2009, 2010).
-- Transferable Skills: Statistics I and II (Ph.D. level), University College Dublin (2010, 2011).
-- Advanced Quantitative Research Methods module, School of Nursing, Trinity College Dublin (2007).
-- Introduction to Management Science, Dept. of Statistics, Trinity College Dublin (2007).
+## Teaching Recognition
 
-**Courses I previously tutored:**
+- **College of Science Teaching Excellence Award**, University College Dublin — awarded in recognition of student engagement techniques, continuous curriculum development, and contribution to UCD's Widening Participation programme.
+- **Recognition Award**, Department of Statistics, University of Oxford (2015).
 
-- Visiting Students’ Tutor in Statistics, Mansfield College, University of Oxford (2015, 2016).
-- Stochastic Models in Mathematical Genetics, University of Oxford (2014, 2015).
-- Introduction to Unix, School of Mathematics, Trinity College Dublin (2005-2006).
-- Numerical Computing, School of Mathematics, Trinity College Dublin (2005-2007).
+## Previously Lectured Modules
+
+- **Monte Carlo Inference** (in-person and online), University College Dublin (2022–2024)
+- **Bayesian Analysis** (Level 2 undergraduate, Level 4 Masters, and online modules), University College Dublin (2017–2021)
+- **Case Studies in Simulation Science**, University College Dublin (2013)
+- **Statistics Using R for Computational Biologists**, University College Dublin (2011–2013)
+- **Transferable Skills: Statistics I and II** (PhD level), University College Dublin (2010–2011)
+- **Statistics and Mathematics in Computational Biology**, University College Dublin (2009–2010)
+- **Advanced Quantitative Research Methods**, School of Nursing, Trinity College Dublin (2007)
+- **Introduction to Management Science**, Department of Statistics, Trinity College Dublin (2007)
+
+## Previous Tutoring
+
+- **Visiting Students' Tutor in Statistics**, Mansfield College, University of Oxford (2015–2016)
+- **Stochastic Models in Mathematical Genetics**, University of Oxford (2014–2015)
+- **Numerical Computing**, School of Mathematics, Trinity College Dublin (2005–2007)
+- **Introduction to Unix**, School of Mathematics, Trinity College Dublin (2005–2006)

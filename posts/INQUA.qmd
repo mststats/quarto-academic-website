@@ -1,12 +1,10 @@
 ---
-title: "INQUA"
+title: "Bayesian Palaeoclimate Session at INQUA 2019"
+date: "2019-07-31"
+description: "Co-convening a session on Bayesian statistical methods for palaeoclimate reconstruction at the INQUA Congress in Dublin."
 categories: [event]
 ---
 
-**INQUA 2019 is  the congress of the International Union for Quaternary Research.**
+**INQUA 2019 is the 20th Congress of the International Union for Quaternary Research, hosted in Dublin.**
 
-With Dr. Niamh Cahill and Prof. Andrew Parnell I co-convened a session on 
-[Bayesian statistical analysis methods for paleoclimate data](https://app.oxfordabstracts.com/events/574/program-app/session/4680). 
-This session was very successful in that we had a full room and 6 great talks, along with a poster session. Hopefully we managed to convince
-some of the audience that Bayesian methodology is the way to go for inverse problems such as climate reconstruction with multiple sources
-of uncertainty!
+Together with Dr. Niamh Cahill and Prof. Andrew Parnell, I co-convened a session on [Bayesian statistical analysis methods for paleoclimate data](https://app.oxfordabstracts.com/events/574/program-app/session/4680). The session drew a full room with six invited and contributed talks alongside an active poster session, highlighting how hierarchical Bayesian methodology tackles inverse problems such as climate reconstruction under multiple sources of chronological and proxy uncertainty.

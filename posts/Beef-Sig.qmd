@@ -1,15 +1,12 @@
 ---
-title: "Project on Grass Fed Beef"
+title: "BEEF-SIG Project on Irish Grass-Fed Beef"
+date: "2019-01-15"
+description: "Four-year UCD and Teagasc collaboration developing analytical signatures to verify grass-fed Irish beef."
 categories: [news]
 ---
 
-**Signatures of Irish Grass-fed beef.**
+**Signatures of Irish Grass-Fed Beef (BEEF-SIG)**
 
-From the website: \
-BEEF-SIG is a collaborative research project involving University College Dublin (UCD) and 
-Teagasc (the Irish Agriculture and Food Development Authority). 
-The project is funded by the Irish Department of Agriculture, Food and the Marine and runs for four years from January, 1 st  2019.
+BEEF-SIG is a four-year collaborative research project between University College Dublin (UCD) and Teagasc (the Irish Agriculture and Food Development Authority), funded by the Department of Agriculture, Food and the Marine starting 1 January 2019.
 
-The project arises in response to the growing reputation of Irish beef internationally. Irish beef is increasingly marketed on the basis of the uniqueness of its grass based production. For example, the U.S. market is interested in beef derived from animals with a "More than 80% Grass Diet" 
-(Bord Bia, 2017). The guarantee to supply beef from animals with a "More than 80% Grass Diet" is based on mandatory recording by 
-producers/farmers of the level and timing of various feed inputs (grass, silage, cereal concentrates, etc) under the Bord Bia Sustainable Beef & Lamb Assurance Scheme (SBLAS) and transmission of this information to meat processors who ultimately make the decision on whether or not the beef is suitable for the U.S. market. BEEF-SIG aims to quantify the feed inputs used on Irish farms by means of novel analytical technologies and consequently assist with the marketing of Irish beef overseas.
+Irish beef is internationally recognised for its pasture-based production—for example, export markets such as the United States seek verification of animals raised on a predominantly grass diet under Bord Bia's Sustainable Beef & Lamb Assurance Scheme (SBLAS). BEEF-SIG combines stable isotope ratio analysis, trace elemental profiling, and multivariate statistical classification to objectively quantify farm feed inputs (grass, silage, concentrates) and verify grass-fed origin claims.
