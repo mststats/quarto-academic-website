@@ -17,6 +17,7 @@ title-block-banner: false
 ## Doctoral Examination
 
 - **External Examiner**, PhD in Bioinformatics, Ulster University (2024)
+- **External Examiner**, PhD in Statistics, Trinity College Dublin (2027)
 - **Internal Examiner**, PhD in Statistics, University College Dublin (2017, 2018, 2019, 2025, 2026)
 - **PhD Viva Chair**, University College Dublin (2017, 2019, 2021–2026)
 
