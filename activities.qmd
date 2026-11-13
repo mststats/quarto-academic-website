@@ -25,13 +25,13 @@ title-block-banner: false
 
 ### Statistical Genetics
 
-- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
 - [Genetics](https://academic.oup.com/genetics)
+- [Journal of Heredity](https://academic.oup.com/jhered)
+- [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
 - [Genome Research](https://genome.cshlp.org/)
 - [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
 - [Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/17550998)
 - [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
-- [Journal of Heredity](https://academic.oup.com/jhered)
 
 ### Statistics & Machine Learning
 
@@ -47,7 +47,7 @@ title-block-banner: false
 - [AISTATS](https://www.aistats.org/) (2012, 2013)
 - [International Statistical Institute World Congress](https://www.isi-web.org/) (2011)
 
-### Ecology, Environment & Knowledge Engineering
+### Ecology, Environment, etc
 
 - [Animal Behaviour](https://www.sciencedirect.com/journal/animal-behaviour)
 - [Environmetrics](https://onlinelibrary.wiley.com/journal/1099095x)
