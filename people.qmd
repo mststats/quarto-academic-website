@@ -1,7 +1,7 @@
 ---
 title: "Research Group"
-subtitle: "Current and former PhD and MSc researchers"
-description-meta: "PhD and MSc students supervised by Michael Salter-Townshend at UCD and Oxford"
+subtitle: "Current and former Postdoc, PhD, and MSc researchers"
+description-meta: "people Michael Salter-Townshend has worked with as a supervisor"
 title-block-banner: false
 ---
 
