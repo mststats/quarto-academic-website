@@ -368,27 +368,34 @@
     "href": "people.html",
     "title": "Research Group",
     "section": "",
-    "text": "Alan Kamara (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Exploring the role of Mitonuclear Discordance in Parkinson’s Disease”\nFunded by the Rinn Centre for Artificial Intelligence\n\nJoshua Musau (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Social media sentiment analysis for severe weather warnings verification”\nFunded by the AIMSIR Centre\n\nKseniia Maksimova (2022–2026; co-supervised with Emmeline Hill)\n\nThesis topic: “Novel population genomics approaches for trait mapping using the Thoroughbred horse model”\nFunded by Genomics Data Science, SFI Centre for Research Training"
+    "text": "Ai Nagano (Dec 2026-Jan 2027)\n\nFunded by the Rinn Centre for Artificial Intelligence"
+  },
+  {
+    "objectID": "people.html#current-postdocs",
+    "href": "people.html#current-postdocs",
+    "title": "Research Group",
+    "section": "",
+    "text": "Ai Nagano (Dec 2026-Jan 2027)\n\nFunded by the Rinn Centre for Artificial Intelligence"
   },
   {
     "objectID": "people.html#current-phd-students",
     "href": "people.html#current-phd-students",
     "title": "Research Group",
-    "section": "",
-    "text": "Alan Kamara (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Exploring the role of Mitonuclear Discordance in Parkinson’s Disease”\nFunded by the Rinn Centre for Artificial Intelligence\n\nJoshua Musau (2026–present; co-supervised with Brendan Murphy)\n\nThesis topic: “Social media sentiment analysis for severe weather warnings verification”\nFunded by the AIMSIR Centre\n\nKseniia Maksimova (2022–2026; co-supervised with Emmeline Hill)\n\nThesis topic: “Novel population genomics approaches for trait mapping using the Thoroughbred horse model”\nFunded by Genomics Data Science, SFI Centre for Research Training"
+    "section": "Current PhD Students",
+    "text": "Current PhD Students\n\nAlan Kamara (2026-present; co-supervised with Adrian O’Hagan)\n\nThesis topic: “Exploring the role of Mitonuclear Discordance in Parkinson’s Disease”\nFunded by the Rinn Centre for Artificial Intelligence\n\nJoshua Musau (2026-present; co-supervised with Brendan Murphy)\n\nThesis topic: “Social media sentiment analysis for severe weather warnings verification”\nFunded by the AIMSIR Centre\n\nKseniia Maksimova (2022-2026; co-supervised with Emmeline Hill)\n\nThesis topic: “Novel population genomics approaches for trait mapping using the Thoroughbred horse model”\nFunded by Genomics Data Science, SFI Centre for Research Training"
   },
   {
     "objectID": "people.html#former-phd-students",
     "href": "people.html#former-phd-students",
     "title": "Research Group",
     "section": "Former PhD Students",
-    "text": "Former PhD Students\n\nDr. Prabhleen Kaur (2019–2024; co-supervised with Simone Ciuti)\n\nThesis: “Social Network Analysis of Animal Social Networks: robustness and methods”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Data Scientist at Microsoft\n\nDr. Kim Conteddu (2021–2024; primary supervisor Simone Ciuti)\n\nThesis: “Modelling the effect of human pressures on wildlife social-networks to improve our understanding of multispecies disease transmission”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Manager Statistician at Bristol Myers Squibb\n\nDr. Jinbo Zhao (2017–2023; co-supervised with Adrian O’Hagan)\n\nThesis: “Statistical Genetics Models with Actuarial Applications”\nFunded by Insight SFI Research Centre for Data Analytics\nSubsequent role: Clinical Research Tutor in Biostatistics, UCD School of Medicine\n\nDr. Catherine Mahoney (2019–2023; primary supervisor Denis Shields)\n\nThesis: “Discovering genomic regions enriched for de novo recombination events”\nFunded by IRC Enterprise Partnership, Bioinformatics and Systems Biology\nSubsequent role: Associate Director, Digital Diagnostics and AI at AstraZeneca\n\nDr. James Ward (2019–2023; primary supervisor David MacHugh)\n\nThesis: “High resolution functional population genomics of modern, historical and ancient cattle (Bos spp.)”\nFunded by Genomics Data Science, SFI Centre for Research Training\nSubsequent role: Postdoctoral Researcher, Population Genomics Group (Prof. Medugorac), LMU Munich, Germany\n\nDr. Chiara Cotroneo (2017–2020; primary supervisor Denis Shields)\n\nThesis: “Identification of chromosomal clusters of protein domain coding regions in Bacteria and Archaea”\nFunded by the Wellcome Trust (Computational Infection Biology)\nSubsequent role: Senior Data Scientist | ML Engineer at Bolt"
+    "text": "Former PhD Students\n\nDr. Prabhleen Kaur (2019-2024; co-supervised with Simone Ciuti)\n\nThesis: “Social Network Analysis of Animal Social Networks: robustness and methods”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Data Scientist at Microsoft\n\nDr. Kim Conteddu (2021-2024; primary supervisor Simone Ciuti)\n\nThesis: “Modelling the effect of human pressures on wildlife social-networks to improve our understanding of multispecies disease transmission”\nFunded by Foundations of Data Science, SFI Centre for Research Training\nSubsequent role: Manager Statistician at Bristol Myers Squibb\n\nDr. Jinbo Zhao (2017-2023; co-supervised with Adrian O’Hagan)\n\nThesis: “Statistical Genetics Models with Actuarial Applications”\nFunded by Insight SFI Research Centre for Data Analytics\nSubsequent role: Clinical Research Tutor in Biostatistics, UCD School of Medicine\n\nDr. Catherine Mahoney (2019-2023; primary supervisor Denis Shields)\n\nThesis: “Discovering genomic regions enriched for de novo recombination events”\nFunded by IRC Enterprise Partnership, Bioinformatics and Systems Biology\nSubsequent role: Associate Director, Digital Diagnostics and AI at AstraZeneca\n\nDr. James Ward (2019-2023; primary supervisor David MacHugh)\n\nThesis: “High resolution functional population genomics of modern, historical and ancient cattle (Bos spp.)”\nFunded by Genomics Data Science, SFI Centre for Research Training\nSubsequent role: Postdoctoral Researcher, Population Genomics Group (Prof. Medugorac), LMU Munich, Germany\n\nDr. Chiara Cotroneo (2017-2020; primary supervisor Denis Shields)\n\nThesis: “Identification of chromosomal clusters of protein domain coding regions in Bacteria and Archaea”\nFunded by the Wellcome Trust (Computational Infection Biology)\nSubsequent role: Senior Data Scientist | ML Engineer at Bolt"
   },
   {
     "objectID": "people.html#msc-supervision",
     "href": "people.html#msc-supervision",
     "title": "Research Group",
     "section": "MSc Supervision",
-    "text": "MSc Supervision\nI have supervised MSc dissertation projects across the following taught graduate programmes:\n\nMSc in Statistical Data Science, University College Dublin\nMSc in Statistics, University College Dublin (2017–present)\nMSc in Data and Computational Science, University College Dublin (2017–present)\nMSc in Actuarial Science, University College Dublin\nMSc in Applied Statistics, University of Oxford (2014, 2016)"
+    "text": "MSc Supervision\nI have supervised MSc dissertation projects across the following taught graduate programmes:\n\nMSc in Statistical Data Science, University College Dublin\nMSc in Statistics, University College Dublin (2017-present)\nMSc in Data and Computational Science, University College Dublin (2017-present)\nMSc in Actuarial Science, University College Dublin\nMSc in Applied Statistics, University of Oxford (2014, 2016)"
   }
 ]
