@@ -83,7 +83,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dae9e1414b5ba72f475d08e119689887.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-92fbaa6d1b23ba73922460d735c2dc64.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -218,6 +218,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#population-statistical-genetics" id="toc-population-statistical-genetics" class="nav-link active" data-scroll-target="#population-statistical-genetics">Population &amp; Statistical Genetics</a>
   <ul class="collapse">
   <li><a href="#mosaic" id="toc-mosaic" class="nav-link" data-scroll-target="#mosaic">MOSAIC</a></li>
+  <li><a href="#inferrecom" id="toc-inferrecom" class="nav-link" data-scroll-target="#inferrecom">inferRecom</a></li>
   </ul></li>
   <li><a href="#statistical-network-analysis" id="toc-statistical-network-analysis" class="nav-link" data-scroll-target="#statistical-network-analysis">Statistical Network Analysis</a>
   <ul class="collapse">
@@ -261,6 +262,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul>
 <li><strong>Links:</strong> <a href="https://maths.ucd.ie/~mst/MOSAIC/">Project Website &amp; Manual</a> · <a href="https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser">HGDP Interactive Results Browser</a> · <a href="https://doi.org/10.1534/genetics.119.302139">Genetics (2019) Paper</a></li>
 </ul>
+</section>
+<section id="inferrecom" class="level3 software-item">
+<h3 class="anchored" data-anchor-id="inferrecom"><a href="https://doi.org/doi:10.18129/B9.bioc.inferRecom">inferRecom</a></h3>
+<p><strong>Homologous Recombination Detection in Nuclear Families</strong> Bioconductor version: Release (3.24)</p>
+<p>This package implements a nuclear family-based algorithm to detect homologous recombination. Using genotypes in PLINK binary format, recombination events are inferred from changes in the inheritance state of informative SNPs between siblings. Closely spaced crossovers that are unlikely to represent true recombination can be filtered out using genetic maps or a SNP-count filter. Additional functions are supplied to detect runs of homozygosity and to phase haplotypes at informative SNPs and intervals that are inferred identical-by-descent. Recombination intervals and runs of homozygosity are returned as <code>GRanges</code> objects, and phased genotypes are returned as a <code>VariantAnnotation</code> <code>VCF</code> object, for use with other Bioconductor packages and genome browsers.</p>
 </section>
 </section>
 <section id="statistical-network-analysis" class="level2">

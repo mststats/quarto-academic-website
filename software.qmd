@@ -17,6 +17,16 @@ MOSAIC (*MOSAIC Organises Segments of Ancestry In Chromosomes*) fits a two-layer
 - **Links:** [Project Website & Manual](https://maths.ucd.ie/~mst/MOSAIC/) · [HGDP Interactive Results Browser](https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser) · [Genetics (2019) Paper](https://doi.org/10.1534/genetics.119.302139)
 :::
 
+
+:::{.software-item}
+### [inferRecom](https://doi.org/doi:10.18129/B9.bioc.inferRecom)
+
+**Homologous Recombination Detection in Nuclear Families**
+Bioconductor version: Release (3.24)
+
+This package implements a nuclear family-based algorithm to detect homologous recombination. Using genotypes in PLINK binary format, recombination events are inferred from changes in the inheritance state of informative SNPs between siblings. Closely spaced crossovers that are unlikely to represent true recombination can be filtered out using genetic maps or a SNP-count filter. Additional functions are supplied to detect runs of homozygosity and to phase haplotypes at informative SNPs and intervals that are inferred identical-by-descent. Recombination intervals and runs of homozygosity are returned as `GRanges` objects, and phased genotypes are returned as a `VariantAnnotation` `VCF` object, for use with other Bioconductor packages and genome browsers.
+:::
+
 ## Statistical Network Analysis
 
 :::{.software-item}
