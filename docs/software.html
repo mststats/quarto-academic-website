@@ -259,6 +259,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="mosaic"><a href="https://maths.ucd.ie/~mst/MOSAIC/">MOSAIC</a></h3>
 <p><strong>Modelling Multiway Admixture Using Dense Genotype Data</strong></p>
 <p>MOSAIC (<em>MOSAIC Organises Segments of Ancestry In Chromosomes</em>) fits a two-layer Hidden Markov Model to infer fine-scale local ancestry segments and characterise multiway admixture events—including mixing proportions and dates—without requiring prior specification of direct surrogate reference populations.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pak</span>(<span class="st">"https://github.com/mststats/MOSAIC"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li><strong>Links:</strong> <a href="https://maths.ucd.ie/~mst/MOSAIC/">Project Website &amp; Manual</a> · <a href="https://maths.ucd.ie/~mst/MOSAIC/HGDP_browser">HGDP Interactive Results Browser</a> · <a href="https://doi.org/10.1534/genetics.119.302139">Genetics (2019) Paper</a></li>
 </ul>
@@ -267,6 +268,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="inferrecom"><a href="https://doi.org/doi:10.18129/B9.bioc.inferRecom">inferRecom</a></h3>
 <p><strong>Homologous Recombination Detection in Nuclear Families</strong> Bioconductor version: Release (3.24)</p>
 <p>This package implements a nuclear family-based algorithm to detect homologous recombination. Using genotypes in PLINK binary format, recombination events are inferred from changes in the inheritance state of informative SNPs between siblings. Closely spaced crossovers that are unlikely to represent true recombination can be filtered out using genetic maps or a SNP-count filter. Additional functions are supplied to detect runs of homozygosity and to phase haplotypes at informative SNPs and intervals that are inferred identical-by-descent. Recombination intervals and runs of homozygosity are returned as <code>GRanges</code> objects, and phased genotypes are returned as a <code>VariantAnnotation</code> <code>VCF</code> object, for use with other Bioconductor packages and genome browsers.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">require</span>(<span class="st">"BiocManager"</span>, <span class="at">quietly =</span> <span class="cn">TRUE</span>))</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="fu">install.packages</span>(<span class="st">"BiocManager"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>BiocManager<span class="sc">::</span><span class="fu">install</span>(<span class="st">"inferRecom"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<ul>
+<li><strong>Links:</strong> <a href="https://doi.org/doi:10.18129/B9.bioc.inferRecom">Bioconductor package</a></li>
+</ul>
 </section>
 </section>
 <section id="statistical-network-analysis" class="level2">
@@ -275,7 +282,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="anisna"><a href="https://cran.r-project.org/package=aniSNA">aniSNA</a></h3>
 <p><strong>Statistical Network Analysis of Animal Social Networks</strong></p>
 <p>Constructs network structures from animal GPS telemetry or observational data and statistically assesses their adequacy and robustness for social network analysis. Includes pre-network data permutations, bootstrapping for confidence intervals on global and node-level metrics, and correlation/regression tools for local network summaries.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"aniSNA"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"aniSNA"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li><strong>Links:</strong> <a href="https://cran.r-project.org/package=aniSNA">CRAN Package</a> · <a href="https://doi.org/10.1186/s40462-024-00494-6">Movement Ecology (2024) Protocol Paper</a></li>
 </ul>
@@ -284,7 +291,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="vblpcm"><a href="https://cran.r-project.org/package=VBLPCM">VBLPCM</a></h3>
 <p><strong>Variational Bayes Latent Position Cluster Model for Networks</strong></p>
 <p>Fits and simulates latent position and cluster models for social and relational network data using a fast Variational Bayes approximation, scaling latent space network inference to substantially larger graphs than MCMC alone.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"VBLPCM"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"VBLPCM"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li><strong>Links:</strong> <a href="https://cran.r-project.org/package=VBLPCM">CRAN Package</a> · <a href="./projects/sna.html">CSDA (2012) Paper</a></li>
 </ul>
@@ -293,7 +300,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="egotergm"><a href="https://cran.r-project.org/package=egoTERGM">egoTERGM</a></h3>
 <p><strong>Estimation of Ego-Temporal Exponential Random Graph Models</strong></p>
 <p>Estimates ego-centric temporal exponential random graph models (ego-TERGMs) and mixtures for longitudinal and role-structured ego-networks.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"egoTERGM"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"egoTERGM"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li><strong>Links:</strong> <a href="https://cran.r-project.org/package=egoTERGM">CRAN Package</a> · <a href="./projects/sna.html">JCGS (2015) Role Analysis Paper</a></li>
 </ul>
